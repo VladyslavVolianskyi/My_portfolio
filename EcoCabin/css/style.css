@@ -539,7 +539,8 @@ body{
 	text-decoration: underline;
 }
 .footer__logo {
-
+	display:flex;
+	justify-content: center;
 }
 .footer__menu {
 	justify-self: end;
